@@ -17,6 +17,8 @@
   <a href="https://www.instagram.com/cenkergultekin/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://medium.com/@cenkergultekin" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   <a href="mailto:cenkergultekin0@gmail.com">
     <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
