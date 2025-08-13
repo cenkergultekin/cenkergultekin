@@ -1,18 +1,24 @@
-<!-- Profil Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=AI%20Developer&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-
-<!-- Giriş -->
+<!-- Modern Banner -->
 <p align="center">
-🚀 Yapay zekâ, cloud teknolojileri ve veri odaklı yazılım mimarileri üzerinde çalışan bir geliştiriciyim.  
-Çalışmalarım; insan–makine etkileşimini daha akıllı, hızlı ve ölçeklenebilir hale getirmeye odaklanıyor.
+  <img src="https://img.shields.io/badge/AI%20Developer-6a11cb?style=for-the-badge&logoColor=white&logo=ai" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=Yapay+Zeka+ve+Cloud+Mimarileri;Chatbot+ve+NLP+Sistemleri;Uçtan+Uca+Proje+Geliştirme" alt="Typing Animation" />
 </p>
 
 ---
 
-<!-- Animasyonlu Yazı -->
+<!-- Sosyal Medya -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=700&lines=Chatbot+Mimarileri;AI+Tabanlı+Kurumsal+Çözümler;Uçtan+Uca+Proje+Geliştirme;Cloud+%26+Backend+Pipeline'ları" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/cenkergultekin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/cenkergultekin/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:cenkergultekin0@gmail.com">
+    <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
