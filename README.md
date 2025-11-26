@@ -48,9 +48,7 @@
   <!-- Diller -->
   <img src="https://skillicons.dev/icons?i=python,cs,js,ts,java&theme=light" />  
   <!-- Frameworkler -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi&theme=light" />  
-  <!-- Araçlar -->
-  <img src="https://skillicons.dev/icons?i=docker,firebase,git,aws,azure,gcp&theme=light" />  
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs&theme=light" />    
 </p>
 
 ---
