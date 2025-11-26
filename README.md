@@ -49,6 +49,8 @@
   <img src="https://skillicons.dev/icons?i=python,cs,js&theme=light" />  
 </p>
 
+---
+
 ### 🔹 Öne Çıkan Projeler
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
