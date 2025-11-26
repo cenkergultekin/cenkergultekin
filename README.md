@@ -36,8 +36,8 @@
 ---
 
 ### 🔹 Şu An Ne Üzerinde Çalışıyorum?
-- **AI destekli rüya analizi & görselleştirme uygulaması**  
-- **Çok dilli NLP çeviri & yanıt eşleme chatbot mimarisi**  
+- **AI destekli analiz & görselleştirme uygulamaları**  
+- **Çok dilli NLP çeviri & chatbot**  
 - **AI ile görsel içerik üretim pipeline’ları**  
 - **API tabanlı otomasyon sistemleri**  
 
@@ -46,17 +46,13 @@
 ### 🔹 Teknoloji & Araçlar
 <p align="left">
   <!-- Diller -->
-  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,java&theme=light" />  
-  <!-- Frameworkler -->
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs&theme=light" />    
-</p>
-
+  <img src="https://skillicons.dev/icons?i=python,cs,js&theme=light" />  
 ---
 
 ### 🔹 Öne Çıkan Projeler
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| **YBS Buddy** | Üniversite öğrencileri için yönlendirici, eğlenceli ve kişiselleştirilmiş anket & tavsiye platformu | React, Node.js, Firebase |
+| **YBS Buddy** | YBS öğrencileri için kişiselleştirilmiş eğitim | React, Node.js, Firebase |
 | **Üniversite Chatbot** | Üniversite öğrencilerine bilgi sağlayan ve süreçleri kolaylaştıran AI destekli chatbot | Python, FastAPI, NLP |
 | **Automation Agent** | API tabanlı görev yönetici & otomasyon aracı | Node.js, n8n, Docker |
 
