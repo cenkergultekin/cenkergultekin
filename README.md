@@ -21,9 +21,9 @@
 
 ### 🔹 Neler Yapıyorum?
 - LLM tabanlı chatbot ve NLP sistemleri geliştiriyorum.
-- Agent pipeline’ları ile süreç otomasyonu kuruyorum.
-- API tabanlı AI orkestrasyon sistemleri inşa ediyorum.  
-- E-ticaret için bağlama duyarlı AI görsel üretim sistemleri geliştiriyorum.  
+- Agent pipeline'ları ile süreç otomasyonu kuruyorum.
+- API tabanlı AI orkestrasyon sistemleri inşa ediyorum.
+- E-ticaret için bağlama duyarlı AI görsel üretim sistemleri geliştiriyorum.
 
 ---
 
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
@@ -65,11 +66,10 @@
   <!-- DevOps & Deploy -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" 
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
 
 <!-- GitHub İstatistikleri -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cenkergultekin&&hide=stars,issuess&how_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cenkergultekin&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cenkergultekin&hide=stars,issues&show_icons=true&theme=tokyonight" />
 </p>
