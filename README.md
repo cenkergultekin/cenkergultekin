@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white" />
+  <img src="https://img.shields.io/badge/fal.ai-EC0648?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-1F2937?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
