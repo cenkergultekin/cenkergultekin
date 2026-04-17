@@ -32,7 +32,7 @@
 
 ### 🔹 Teknoloji & Araçlar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,go,cs,js,nodejs,fastapi,docker,supabase,vercel&theme=light" />  
+  <img src="https://skillicons.dev/icons?i=python,huggingface,langchain,r,go,js,docker,supabase,vercel&theme=light" />  
   
 </p> 
 
