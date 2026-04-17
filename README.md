@@ -70,6 +70,6 @@
 
 <!-- GitHub İstatistikleri -->
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cenkergultekin&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cenkergultekin&&hide=stars,issuess&how_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cenkergultekin&theme=tokyonight" />
 </p>
