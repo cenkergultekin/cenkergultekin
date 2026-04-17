@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=AI+%26+Developer;LLM+%26+Agent+Systems;End-to-End+Product+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=AI+Developer;LLM+%26+Agent+Systems;End-to-End+Product+Development" />
 </p>
 
 ---
@@ -33,25 +33,39 @@
 ### 🔹 Teknoloji & Araçlar
 
 <p align="left">
-  <!-- Core stack -->
-  <img src="https://skillicons.dev/icons?i=python,go,js,nodejs,docker,vercel&theme=light" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts,r&theme=light" />
 </p>
 
 <p align="left">
-  <!-- AI & Tools -->
+  <!-- AI / ML Stack -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-4B00FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
 
 <p align="left">
-  <!-- Data -->
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <!-- Backend & API -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light" />
 </p>
 
+<p align="left">
+  <!-- Data & Storage -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+</p>
+
+<p align="left">
+  <!-- DevOps & Deploy -->
+  <img src="https://skillicons.dev/icons?i=docker,vercel,railway,git,github,newrelic&theme=light" />
+</p>
 ---
 
 <!-- GitHub İstatistikleri -->
