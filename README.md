@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=Yapay+Zeka+ve+Cloud+Mimarileri;Chatbot+ve+NLP+Sistemleri;Uçtan+Uca+Proje+Geliştirme" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=AI+%26+Cloud+Architectures;LLM+%26+Agent+Systems;End-to-End+Product+Development" />
 </p>
 
 ---
@@ -19,6 +19,7 @@
   </a>
   <a href="https://medium.com/@cenkergultekin" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
   <a href="mailto:cenkergultekin0@gmail.com">
     <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -26,37 +27,26 @@
 
 ---
 
-### 🔹 Ben Kimim?
-- Chatbot mimarileri & NLP tabanlı sistemler geliştiriyorum.  
-- Vibe coding yaklaşımı ile uçtan uca proje inşa ediyorum.  
-- Cloud tabanlı ölçeklenebilir yapılar kurguluyorum.  
-- AI destekli kurumsal çözümler tasarlıyorum.  
-- API entegrasyonları & veri işleme pipeline’ları kuruyorum.  
-
----
-
-### 🔹 Şu An Ne Üzerinde Çalışıyorum?
-- **AI destekli analiz & görselleştirme uygulamaları**  
-- **Çok dilli NLP çeviri & chatbot**  
-- **AI ile görsel içerik üretim pipeline’ları**  
-- **API tabanlı otomasyon sistemleri**  
+### 🔹 Neler Yapıyorum?
+- LLM tabanlı chatbot ve NLP sistemleri geliştiriyorum  
+- Agent pipeline’ları ile süreç otomasyonu kuruyorum  
+- API tabanlı AI orkestrasyon sistemleri inşa ediyorum  
+- E-ticaret için bağlama duyarlı AI görsel üretim sistemleri geliştiriyorum  
 
 ---
 
 ### 🔹 Teknoloji & Araçlar
 <p align="left">
-  <!-- Diller -->
-  <img src="https://skillicons.dev/icons?i=python,cs,js&theme=light" />  
+  <img src="https://skillicons.dev/icons?i=python,go,cs,js,nodejs,fastapi,docker,supabase&theme=light" />  
+  
 </p>
 
 ---
 
-### 🔹 Öne Çıkan Projeler
-| Proje | Açıklama | Teknolojiler |
-|-------|----------|--------------|
-| **YBS Buddy** | YBS öğrencileri için kişiselleştirilmiş eğitim | React, Node.js, Firebase |
-| **Üniversite Chatbot** | Üniversite öğrencilerine bilgi sağlayan ve süreçleri kolaylaştıran AI destekli chatbot | Python, FastAPI, NLP |
-| **Automation Agent** | API tabanlı görev yönetici & otomasyon aracı | Node.js, n8n, Docker |
+### 🔹 Yaklaşım
+- Sistem tasarımı → Modüler ve ölçeklenebilir yapı  
+- AI entegrasyonu → API-first ve veri odaklı yaklaşım  
+- Ürün geliştirme → Hızlı prototipleme + iterasyon  
 
 ---
 
