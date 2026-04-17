@@ -1,8 +1,3 @@
-<!-- Modern Banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Developer-6a11cb?style=for-the-badge&logoColor=white&logo=ai" height="40" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6A11CB&center=true&vCenter=true&width=800&lines=AI+%26+Cloud+Architectures;LLM+%26+Agent+Systems;End-to-End+Product+Development" />
 </p>
@@ -37,16 +32,9 @@
 
 ### 🔹 Teknoloji & Araçlar
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,cs,js,nodejs,fastapi,docker,supabase&theme=light" />  
+  <img src="https://skillicons.dev/icons?i=python,r,go,cs,js,nodejs,fastapi,docker,supabase,vercel&theme=light" />  
   
-</p>
-
----
-
-### 🔹 Yaklaşım
-- Sistem tasarımı → Modüler ve ölçeklenebilir yapı  
-- AI entegrasyonu → API-first ve veri odaklı yaklaşım  
-- Ürün geliştirme → Hızlı prototipleme + iterasyon  
+</p> 
 
 ---
 
@@ -56,5 +44,3 @@
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cenkergultekin&theme=tokyonight" />
 </p>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" />
