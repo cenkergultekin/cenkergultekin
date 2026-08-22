@@ -17,8 +17,6 @@
   <img src="https://img.shields.io/badge/LangChain-18181B?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-18181B?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-18181B?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/fal.ai-18181B?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenRouter-18181B?style=flat-square&logoColor=white" />
 </p>
 
 **Data**
